@@ -1,0 +1,23 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+img {
+    min-height: 254px;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: none;
+}
+
+.label {
+font-weight: bold;
+}
+
+body {
+    background-color: #7be0fe;
+}
+  
