@@ -39,6 +39,7 @@ Name your favorite burgers... and then devour them!
 * [npm mysql](https://www.npmjs.com/package/mysql)
 * [npm body-parser](https://www.npmjs.com/package/body-parser)
 * [npm express-handlebars](https://www.npmjs.com/package/express-handlebars)
+* [npm sequelize](https://www.npmjs.com/package/sequelize)
 
 ## Authors
 
